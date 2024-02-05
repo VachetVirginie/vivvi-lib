@@ -1,5 +1,5 @@
 <template>
-  <button color="warning" @click="onClick">Click me!</button>
+  <v-btn color="warning" @click="onClick">Click me!</v-btn>
   <p>{{ count }}</p>
 </template>
 
